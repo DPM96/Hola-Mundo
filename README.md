@@ -1,5 +1,5 @@
 # Hola-Mundo
-Repositorio LAUNCH X LATAM
+Repositorio LAUNCH X LATAM (rama "otros cambios"
 
 
 Autor: Diego Pacheco
