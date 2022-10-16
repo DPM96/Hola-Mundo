@@ -1,0 +1,1 @@
+Solo nos permite crear archivos de tezto de código, debemos poner nombre del archivo y extension, Este archivo fue creado
